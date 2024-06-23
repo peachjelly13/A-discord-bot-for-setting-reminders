@@ -1,7 +1,7 @@
 # A-discord-bot-for-setting-reminders
 This project is a Discord bot that helps users create and manage reminders. It uses the discord.js library to interact with the Discord API and allows users to set reminders using specific commands. The bot saves reminders to a file and checks periodically to send reminders to users at the appropriate times. Additionally, the bot can generate short URLs.
 
-__Features__
+__Features__:
 
 __Create Reminders__: Users can create reminders with a specified time.
 
